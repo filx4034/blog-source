@@ -1,0 +1,7 @@
+baseURL = "https://filx4034.github.io/"
+languageCode = "en-us"
+title = "My attempt at making a website"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "dark"
